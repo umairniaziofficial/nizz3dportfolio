@@ -1,5 +1,5 @@
 /* eslint-disable react-refresh/only-export-components */
-import Tilt from "react-tilt";
+import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
